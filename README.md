@@ -7,6 +7,9 @@ _The project is in early development stage. Refactoring and new features (vulner
 
 ![Infosec Coffee](img/infosec-cofee-landing-page.png)
 
+##Presentation
+[Presentation.pdf](presentation.pdf) (polish)
+
 ##Build and run
 tbd.
 
