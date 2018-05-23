@@ -1,0 +1,6 @@
+a.active, a i.fas {
+    color: #e6a756 !important;
+}
+a:hover i.fas{
+    color: #df902a !important;
+}
